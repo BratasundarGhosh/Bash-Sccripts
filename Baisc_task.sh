@@ -1,7 +1,7 @@
 #!/bin/bash
 #Author- Bratasundar Ghosh
 #Date- 15/06/2025
-#Dscription- This script will run baic admin tasks
+#Dscription- This script will run a few basic tasks
 #Modify Date- 15/06/2025
 echo
 pwd #Present working dirctory
