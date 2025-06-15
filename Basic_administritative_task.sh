@@ -4,16 +4,16 @@
 #Dscription- This script will run baic admin tasks
 #Modify Date- 15/06/2025
 echo
-pwd
+pwd #Present working dirctory
 echo
-ls
+ls #List present directory content
 echo
-whoami
+whoami #Current user
 echo
-date
+date #Today's date and time
 echo
-cal
+cal #Current month calendar
 echo
-touch a b c
+touch a b c #create a b c dirctory
 echo
 
