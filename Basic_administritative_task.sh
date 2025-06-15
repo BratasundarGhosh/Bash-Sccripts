@@ -14,4 +14,6 @@ date
 echo
 cal
 echo
+touch a b c
+echo
 
